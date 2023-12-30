@@ -34,7 +34,9 @@ Bonus:
 
 ### Screenshot
 
-![Screenshot](<./public/screenshots/Screen%20Shot%202023-03-29%20at%201.40.56%20PM%20(2).png>)
+
+![kanban-task-management-web-app](https://github.com/EmmanuelMoshood/kanban-task-management-web-app/assets/100259567/7735cd9d-262f-457c-9077-374b810b036e)
+
 
 ### Links
 
